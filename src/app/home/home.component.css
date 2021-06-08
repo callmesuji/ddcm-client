@@ -1,0 +1,19 @@
+:host {
+    display: flex;
+    justify-content: center;  
+    margin: 10px 0px;
+  }
+
+  .btn-add{
+    left: 50rem;
+  }
+
+  
+  mat-form-field {
+      
+    display: block;
+
+  }
+  table {
+    width: 50rem;
+  }
